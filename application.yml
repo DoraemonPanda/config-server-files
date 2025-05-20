@@ -4,3 +4,6 @@ spring:
   cloud:
     compatibility-verifier:
       enabled: false
+
+my:
+  greetings: Hello World

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: config-server-files
+  cloud:
+    compatibility-verifier:
+      enabled: false

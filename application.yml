@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: config-server-files
+
     
 my:
   globalGreetings: Hello World from default config file
